@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white">
 <br><br><br>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinnn03)](https://solved.ac/rinnn03)
 
 ### 🏅 Github Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flsrinn&layout=compact)](https://github.com/flsrinn/github-readme-stats)
