@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ### 🙆 Contact Me ! 🙆
-<a href="https://www.instagram.com/flsrinn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fflsrinn&count_bg=%23FFDE00&title_bg=%23FFCC17&icon=rabbitmq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br><br>
+<a href="https://www.instagram.com/flsrinn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href=mailto:wjsdkfls03@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjsdkfls03@gmail.com"> </a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fflsrinn&count_bg=%23FFDE00&title_bg=%23FFCC17&icon=rabbitmq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br><br>
 
 ### 💛 Baekjoon 💛
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinnn03)](https://solved.ac/rinnn03) <br><br>
