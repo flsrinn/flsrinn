@@ -25,9 +25,14 @@ Here are some ideas to get you started:
 <br> <br>
 
 ### 🏆 Awards 🏆
-[2024.04.30] 2024 시스코 이노베이션 챌린지 해커톤 **장려상** <br>
-[2024.09.30] 제20회 한성공학경진대회 **은상** 
-<br><br><br>
+| [2024.04.30]  | [2024.09.26]  |
+|:-:|:-:|
+| 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  |
+| <img src="https://github.com/user-attachments/assets/4c9e2fc5-1586-4362-bf62-af4536882f3f" width="300px" height="200px"> | <img src="https://github.com/user-attachments/assets/29691818-45ea-42f1-b5a1-ae8132c3289c" width="150px" height="200px">  |
+
+
+<br>
+
 
 ### 👾 Projects 👾 
 화장품 용기 분리수거 AIoT 시스템, <a href="https://github.com/HSU-REPLAY/Ecosmetic-Bin" target="_blank"> **_Ecosmetic Bin_** </a> <br>
