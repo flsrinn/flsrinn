@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 />
 </a>
 
+</div>
+
 <br> <br>
 
 ### 🏆 Awards 🏆
@@ -31,13 +33,22 @@ Here are some ideas to get you started:
 | <img src="https://github.com/user-attachments/assets/4c9e2fc5-1586-4362-bf62-af4536882f3f" width="300px" height="200px"> |<img src="https://github.com/user-attachments/assets/29691818-45ea-42f1-b5a1-ae8132c3289c" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/4e8347d5-6e6d-47c8-8115-2c1bb03f424c" width="130px" height="200px"> |
 
 
-<br>
+<br><br><br>
 
 
-### 👾 Projects 👾 
-화장품 용기 분리수거 AIoT 시스템, <a href="https://github.com/HSU-REPLAY/Ecosmetic-Bin" target="_blank"> **_Ecosmetic Bin_** </a> <br>
+### 👾 Projects 👾
 
-AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github.com/HwangCheese/QuickQuick" target="_blank"> **_Quick Quick_** </a> 
+#### 화장품 용기 분리수거 AIoT 시스템, **_Ecosmetic Bin_**
+🔗 [GitHub Repository](https://github.com/HSU-REPLAY/Ecosmetic-Bin)  
+🗓 **기간:** 2024.04 - 2024.06  
+🤝 **프로젝트 유형:** 산학공동연구 프로젝트
+
+
+
+#### AI 기반으로 메모와 공유가 간결한 시스템, **_Quick Quick_**
+🔗 [GitHub Repository](https://github.com/HwangCheese/QuickQuick)  
+🗓 **기간:** 2024.06 - 2024.11  
+🤝 **프로젝트 유형:** 산학공동연구 프로젝트
 <br><br><br>
 
 ### 💻 Tech Stacks 💻
@@ -57,20 +68,12 @@ AI 기반으로 메모와 공유가 간결한 시스템, <a href="https://github
 <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=style=flat&logo=RaspberryPi&logoColor=white"> 
 <br><br><br>
 
-### 🛠️ Tools 🛠️
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
-<br><br><br>
-
 ### 🙆 Contact Me ! 🙆
 <a href="https://www.instagram.com/flsrinn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> <a href=mailto:wjsdkfls03@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wjsdkfls03@gmail.com"> </a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fflsrinn&count_bg=%23FFDE00&title_bg=%23FFCC17&icon=rabbitmq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br>
 
 ### ✨ Stats ✨
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinnn03)](https://solved.ac/rinnn03) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsrinn&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinnn03)](https://solved.ac/rinnn03) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsrinn&layout=compact&bg_color=transparent,&title_color=000000&text_color=000000"/> 
 
 
-</div>
+
