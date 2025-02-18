@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <br> <br>
 
 ### 🏆 Awards 🏆
-| [2024.04.30]  | [2024.09.26]  | [2024.11.27]  | [2025.02.07]  |
+| [2024.04.30]  | [2024.09.26]  | [2024.11.27]  |  [2025.02.07]  |
 |:-:|:-:|:-:|:-:|
 | 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  | 2024 SW중심대학 연합 SW FESTIVAL **최우수상**  | 제 11회 창의융합역량 경진대회 **금상**  |
-| <img src="https://github.com/user-attachments/assets/4c9e2fc5-1586-4362-bf62-af4536882f3f" width="300px" height="200px"> |<img src="https://github.com/user-attachments/assets/29691818-45ea-42f1-b5a1-ae8132c3289c" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/4e8347d5-6e6d-47c8-8115-2c1bb03f424c" width="130px" height="200px"> | |
+| <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="300px" height="200px"> |<img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="130px" height="200px"> |<img src="https://github.com/user-attachments/assets/8e762f45-e674-4e83-b378-6ecb4cac36de" width="150px" height="200px"> |
 
 
 <br><br><br>
