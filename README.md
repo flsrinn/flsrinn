@@ -41,14 +41,12 @@ Here are some ideas to get you started:
 #### 화장품 용기 분리수거 AIoT 시스템, **_Ecosmetic Bin_**
 🔗 [GitHub Repository](https://github.com/HSU-REPLAY/Ecosmetic-Bin)  
 🗓 **기간:** 2024.04 - 2024.06  
-🤝 **프로젝트 유형:** 산학공동연구 프로젝트
 
 
 
 #### AI 기반으로 메모와 공유가 간결한 시스템, **_Quick Quick_**
 🔗 [GitHub Repository](https://github.com/HwangCheese/QuickQuick)  
 🗓 **기간:** 2024.06 - 2024.11  
-🤝 **프로젝트 유형:** 산학공동연구 프로젝트
 <br><br><br>
 
 ### 💻 Tech Stacks 💻
