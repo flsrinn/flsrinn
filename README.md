@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ### ✨ Stats ✨
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinnn03)](https://solved.ac/rinnn03) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsrinn&layout=compact&bg_color=transparent,&title_color=000000&text_color=000000"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsrinn&layout=compact&bg_color=transparent,&title_color=000000&text_color=000000"/> 
 
 
 
