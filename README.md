@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ### 📕 Papers 📕
-AI를 활용한 간결한 메모와 공유 시스템: QuickQuick
+- AI를 활용한 간결한 메모와 공유 시스템: QuickQuick
 [pdf](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf)
 
 
