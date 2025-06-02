@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 📝 Publications
 * [[pdf]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick (2024)
-* [pdf] 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 (2025)
+* [pdf] 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 __*__ (2025)
 
 <br>
 
