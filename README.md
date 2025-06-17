@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🏆 Awards 🏆
+## 🏆 Awards 
 | [2024.04.30]  | [2024.09.26]  | [2024.11.27]  |  [2025.02.07]  |
 |:-:|:-:|:-:|:-:|
 | 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  | 2024 SW중심대학 연합 SW FESTIVAL **최우수상**  | 제 11회 창의융합역량 경진대회 **금상**  |
@@ -45,7 +45,15 @@ Here are some ideas to get you started:
 
 <br>
 
-## 💻 Tech Stacks 💻
+## 🍀 Experiences 
+> #### 2024-2 코딩라운지 튜터 <sub><sup>2024.09 – 2024.12</sup></sub>
+
+> #### 한성대학교 컴퓨터공학부 동계 프로그래밍 캠프 튜터 <sub><sup>2024.01 (4박 5일)</sup></sub>
+
+> #### 2025-1 코딩라운지 튜터 <sub><sup>2025.03 – 2025.06</sup></sub>
+<br><br>
+
+## 💻 Tech Stacks 
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"><br> 
@@ -58,12 +66,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=style=flat&logo=RaspberryPi&logoColor=white"> 
 <br><br><br>
 
-## 🙆 Contact Me ! 🙆
+## 🙆 Contact Me !
 <a href=mailto:wjsdkfls03@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wjsdkfls03@gmail.com"> </a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fflsrinn&count_bg=%23FFDE00&title_bg=%23FFCC17&icon=rabbitmq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br>
 
-## ✨ Stats ✨
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsrinn&layout=compact&bg_color=transparent,&title_color=000000&text_color=000000"/> <a href="https://github.com/devxb/gitanimals">
+## ✨ Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsrinn&layout=compact&bg_color=transparent,&title_color=000000&text_color=000000"/> <a href="https://github.com/devxb/gitanimals" >
 <img
   src="https://render.gitanimals.org/farms/flsrinn"
   width="500"
