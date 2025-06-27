@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 | [2025.05.26]  | [2025.05.30]  | 
 |:-:|:-:|
 | 2024 한성 **발전공헌상**  | 2025 컴퓨터공학부 캡스톤디자인 **최우수상** |
-|  |  |
+|  | <img src="https://github.com/user-attachments/assets/11a4b68f-3f1d-484c-8aa0-33c5487f398b" width="150px" height="200px"> |
 
 <br>
 
