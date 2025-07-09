@@ -46,16 +46,14 @@ Here are some ideas to get you started:
 <br>
 
 ## 🍀 Experiences 
-> #### 2024-2 코딩라운지 튜터 <sub><sup>2024.09 – 2024.12</sup></sub>
+- 2024-2 코딩라운지 튜터 <sub><sup>2024.09 – 2024.12</sup></sub>
+- 한성대학교 컴퓨터공학부 동계 프로그래밍 캠프 튜터 <sub><sup>2025.01 (4박 5일)</sup></sub>
+- 2025-1 코딩라운지 튜터 <sub><sup>2025.03 – 2025.06</sup></sub>
 
-> #### 한성대학교 컴퓨터공학부 동계 프로그래밍 캠프 튜터 <sub><sup>2024.01 (4박 5일)</sup></sub>
-
-> #### 2025-1 코딩라운지 튜터 <sub><sup>2025.03 – 2025.06</sup></sub>
 <br><br>
 
 ## 💻 Tech Stacks 
-<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"><br> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
