@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 🍀 Experiences 
 - 2024-2 코딩라운지 튜터 <sub><sup>2024.09 – 2024.12</sup></sub>
-- 한성대학교 컴퓨터공학부 동계 프로그래밍 캠프 튜터 <sub><sup>2025.01 (4박 5일)</sup></sub>
+- 2025 한성대학교 컴퓨터공학부 동계 프로그래밍 캠프 튜터 <sub><sup>2025.01 (4박 5일)</sup></sub>
 - 2025-1 코딩라운지 튜터 <sub><sup>2025.03 – 2025.06</sup></sub>
 
 <br><br>
