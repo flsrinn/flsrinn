@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&section=header)
 
 ## 🏆 Awards 
 | [2024.04.30]  | [2024.09.26]  | [2024.11.27]  |  [2025.02.07]  |
@@ -81,4 +81,4 @@ Here are some ideas to get you started:
   />
 </a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&section=footer)
