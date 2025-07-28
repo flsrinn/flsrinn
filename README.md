@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=header)
 
 ## 🏆 Awards 
 | [2024.04.30]  | [2024.09.26]  | [2024.11.27]  |  [2025.02.07]  |
@@ -70,10 +71,14 @@ Here are some ideas to get you started:
 
 ## ✨ Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsrinn&layout=compact&bg_color=transparent,&title_color=000000&text_color=000000"/> <a href="https://github.com/devxb/gitanimals" >
-<img
-  src="https://render.gitanimals.org/farms/flsrinn"
-  width="500"
-  height="200"
-/>
 </a>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=flsrinn&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/flsrinn?pet-id=737487931731405953"
+    width="600"
+    height="120"
+  />
+</a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer)
