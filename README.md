@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 | 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  | 2024 SW중심대학 연합 SW FESTIVAL **최우수상**  | 제 11회 창의융합역량 경진대회 **금상**  |
 | <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="300px" height="200px"> |<img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="130px" height="200px"> |<img src="https://github.com/user-attachments/assets/8e762f45-e674-4e83-b378-6ecb4cac36de" width="150px" height="200px"> |
 
-| [2025.05.26]  | [2025.05.30]  | 
-|:-:|:-:|
-| 2024 한성 **발전공헌상**  | 2025 컴퓨터공학부 캡스톤디자인 **최우수상** |
-|  | <img src="https://github.com/user-attachments/assets/11a4b68f-3f1d-484c-8aa0-33c5487f398b" width="150px" height="200px"> |
+| [2025.05.26]  | [2025.05.30]  | [2025.08.13] |
+|:-:|:-:|:-:|
+| 2024 한성 **발전공헌상**  | 2025 컴퓨터공학부 캡스톤디자인 **최우수상** | 제 12회 창의융합역량 경진대회 **은상** |
+|  | <img src="https://github.com/user-attachments/assets/11a4b68f-3f1d-484c-8aa0-33c5487f398b" width="150px" height="200px"> | |
 
 <br>
 
