@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 > #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – ing</sup></sub>  
-  스토리와 하이라이트 중심의 영상 요약 웹 서비스
+  하이라이트와 스토리의 비율 조절이 가능한 영상 요약 시스템
   
 > #### 🧠 [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
   AI 기반으로 메모와 공유가 간결한 시스템
@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 <br><br>
 
 ## 🏆 Awards 
+<details>
+  <summary>[2025.11.20] 2025학년도 한국통신학회 추계종합학술발표회 학부생 캡스톤디자인 경진대회 <b>최우수상</b></summary>
+  상장 업로드 예정
+</details>
 <details>
   <summary>[2025.09.27] 제 21회 한성공학경진대회 <b>은상</b></summary>
   상장 업로드 예정
