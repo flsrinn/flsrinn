@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&section=header)
 
 ## 🚀 Projects
-> #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – ing</sup></sub>  
+> #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – 2025.11</sup></sub>  
   하이라이트와 스토리의 비율 조절이 가능한 영상 요약 시스템
   
 > #### 🧠 [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
