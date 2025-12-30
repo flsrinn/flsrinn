@@ -21,19 +21,20 @@ Here are some ideas to get you started:
 <br><br>
 
 ### 🚀 Projects
-> #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – 2025.11</sup></sub>  
+> #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 ~ 2025.11</sup></sub>  
   하이라이트와 스토리의 비율 조절이 가능한 영상 요약 시스템
   
-> #### 🧠 [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
+> #### 🧠 [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 ~ 2024.11</sup></sub>  
   AI 기반으로 메모와 공유가 간결한 시스템
 
-> #### ♻️ [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.04 – 2024.06</sup></sub>  
+> #### ♻️ [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.04 ~ 2024.06</sup></sub>  
   화장품 용기 분리수거 AIoT 시스템
 
 <br><br>
 
 ### 🍀 Activities 
-- **Teaching Assistant (TA), Department of Computer Engineering (Fall 2025)** <sub><sup>2025.09 – 2025.12</sup></sub> <br>
+- **SK AI Leader Academy (SKALA), AI Track, 3rd Cohort** <sub><sup>2026.01 ~ Present</sup></sub> <br><br>
+- **Teaching Assistant (TA), Department of Computer Engineering (Fall 2025)** <sub><sup>2025.09 ~ 2025.12</sup></sub> <br>
   `웹프로그래밍기초 과목 실습 수업 보조` <br>
   `HTML, CSS, JS 질의응답`  <br><br>
 - **Tutor, Coding Lounge (Spring 2025)** <sub><sup>2025.03 – 2025.06</sup></sub> <br>
@@ -41,9 +42,9 @@ Here are some ideas to get you started:
 - **Tutor, 2025 Hansung University Computer Engineering Winter Programming Camp** <sub><sup>2025.01.20 ~ 2025.01.24</sup></sub> <br>
   `컴퓨터공학부 전공과목 질의응답`  <br>
   `학생 안전, 숙소 대표 관리` <br><br>
-- **Tutor, Coding Lounge (Fall 2024)** <sub><sup>2024.09 – 2024.12</sup></sub> <br>
+- **Tutor, Coding Lounge (Fall 2024)** <sub><sup>2024.09 ~ 2024.12</sup></sub> <br>
   `컴퓨터공학부 전공과목 질의응답` <br><br>
-- **Undergraduate Researcher** <sub><sup>2024.01 – 2025.12</sup></sub> <br>
+- **Undergraduate Researcher** <sub><sup>2024.01 ~ 2025.12</sup></sub> <br>
   `EcosmeticBin AIoT 시스템, QuickQuick 메모 시스템, VideoSummary 영상 요약 시스템 구현` <br>
   `컴퓨터 스크린 전송 성능 평가 연구 주도 - 제1저자 논문(KCI) 게재`
 
