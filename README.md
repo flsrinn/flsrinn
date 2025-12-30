@@ -51,39 +51,39 @@ Here are some ideas to get you started:
 
 ### 🏆 Awards 
 <details>
-  <summary>[2025.11.20] 2025학년도 한국통신학회 추계종합학술발표회 학부생 캡스톤디자인 경진대회 <b>최우수상</b></summary>
+  <summary>[2025.11.20] <b>Grand Prize</b>, Undergraduate Capstone Design Competition, 2025 KICS Fall Conference</summary>
   상장 업로드 예정
 </details>
 <details>
-  <summary>[2025.09.27] 제 21회 한성공학경진대회 <b>은상</b></summary>
+  <summary>[2025.09.27] <b>Silver Prize</b>, 21st Hansung Engineering Competition, Hansung University</summary>
   상장 업로드 예정
 </details>
 <details>
-  <summary>[2025.08.13] 제 12회 창의융합역량 경진대회 <b>은상</b></summary>
+  <summary>[2025.08.13] <b>Silver Prize</b> — 12th Creative Convergence Competition, Hansung University</summary>
   <img width="334" height="544" alt="image" src="https://github.com/user-attachments/assets/4c4d5863-d642-40d8-9462-cfb8521e19bd" />
 </details>
 <details>
-  <summary>[2025.05.30] 2025 컴퓨터공학부 캡스톤디자인 <b>최우수상</b> (웹 부문 1위)</summary>
+  <summary>[2025.05.30] <b>Grand Prize</b> (1st Place, Web Track) — 2025 Computer Engineering Capstone Design, Hansung University</summary>
   <img src="https://github.com/user-attachments/assets/11a4b68f-3f1d-484c-8aa0-33c5487f398b" width="334px" height="544px">
 </details>
 <details>
-  <summary>[2025.05.26] 2024 한성 <b>발전공헌상</b></summary>
+  <summary>[2025.05.26] <b>Contribution Award</b>, 2024 Hansung University Contribution Award, Hansung University</summary>
   <img width="334" height="544" alt="image" src="https://github.com/user-attachments/assets/f7a664db-b727-47db-8629-63bfb4a7fe90" />
 </details>
 <details>
-  <summary>[2025.02.07] 제 11회 창의융합역량 경진대회 <b>금상</b></summary>
+  <summary>[2025.02.07] <b>Gold Prize</b>, 11th Creative Convergence Competition, Hansung University</summary>
   <img src="https://github.com/user-attachments/assets/8e762f45-e674-4e83-b378-6ecb4cac36de" width="334px" height="544px">
 </details>
 <details>
-  <summary>[2024.11.27] 2024 SW중심대학 연합 SW FESTIVAL <b>최우수상</b> (웹/모바일 부문 1위)</summary>
+  <summary>[2024.11.27] <b>Grand Prize</b> (1st Place, Web/Mobile Track), 2024 SW Festival of SW-Centered Universities, IITP · Ministry of Science and ICT(MSIT)</summary>
   <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="334px" height="544px">
 </details>
 <details>
-  <summary>[2024.09.26] 제 20회 한성공학경진대회 <b>은상</b></summary>
+  <summary>[2024.09.26] <b>Silver Prize</b>, 20th Hansung Engineering Competition, Hansung University</summary>
   <img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7" width="334px" height="544px"> 
 </details>
 <details>
-  <summary>[2024.04.30] 2024 시스코 이노베이션 챌린지 <b>장려상</b></summary>
+  <summary>[2024.04.30] <b>Encouragement Prize</b>, 2024 Cisco Innovation Challenge, Cisco Systems Korea</summary>
   <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d">
 </details>
 
