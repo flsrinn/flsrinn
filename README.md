@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - 2025-1 코딩라운지 튜터 <sub><sup>2025.03 – 2025.06</sup></sub>
 - 2025 한성대학교 컴퓨터공학부 동계 프로그래밍 캠프 튜터 <sub><sup>2025.01.20 ~ 2025.01.24</sup></sub>
 - 2024-2 코딩라운지 튜터 <sub><sup>2024.09 – 2024.12</sup></sub>
+- 학부 연구생 <sub><sup>2024.01 – 2025.12</sup></sub>
 
 <br><br>
 
