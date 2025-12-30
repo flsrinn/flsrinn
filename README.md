@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&section=header)
 
-## 🚀 Projects
+### 📖 Education
+> B.Sc. Department of Computer Engineering, Hansung Univ. <sub><sup>2022.03 ~ 2026.02.</sup></sub>  
+
+<br><br>
+
+### 🚀 Projects
 > #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – 2025.11</sup></sub>  
   하이라이트와 스토리의 비율 조절이 가능한 영상 요약 시스템
   
@@ -27,7 +32,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-## 🍀 Experiences 
+### 🍀 Activities 
 - 2025-2 컴퓨터공학부 TA조교 - 웹프로그래밍기초 <sub><sup>2025.09 – 2025.12</sup></sub>
 - 2025-1 코딩라운지 튜터 <sub><sup>2025.03 – 2025.06</sup></sub>
 - 2025 한성대학교 컴퓨터공학부 동계 프로그래밍 캠프 튜터 <sub><sup>2025.01.20 ~ 2025.01.24</sup></sub>
@@ -35,7 +40,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-## 🏆 Awards 
+### 🏆 Awards 
 <details>
   <summary>[2025.11.20] 2025학년도 한국통신학회 추계종합학술발표회 학부생 캡스톤디자인 경진대회 <b>최우수상</b></summary>
   상장 업로드 예정
@@ -75,14 +80,14 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📝 Publications
+### 📝 Publications
 #### _[🔗](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003269206)_  Video summarization with adjustable ratio of highlights and story <sub><sup>2025.12</sup></sub>
 #### [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12276153&nodeId=NODE12276153&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=%EC%BB%B4%ED%93%A8%ED%84%B0+%EC%8A%A4%ED%81%AC%EB%A6%B0+%EC%8B%A4%EC%8B%9C%EA%B0%84+%EC%A0%84%EC%86%A1%EC%97%90+%EB%8C%80%ED%95%9C+%EC%8B%A4%ED%97%98%EC%A0%81+%EC%84%B1%EB%8A%A5+%ED%8F%89%EA%B0%80&articleTitleEn=Experimental+Performance+Evaluation+for+Real+time+Transmission+of+Computer+Screens&voisId=VOIS00778941&voisName=%ED%95%9C%EA%B5%AD%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C+%EB%85%BC%EB%AC%B8%EC%A7%80+%EC%A0%9C25%EA%B6%8C+%EC%A0%9C3%ED%98%B8&voisCnt=36&searchResultKey=%2FlMfWK6MWZi5N74t6Fqz8XXsrT%2FGH3FCVhIaTZWbYjDA8xmuy%2Bb%2Bo7UNF3071KGs&language=ko_KR&hasTopBanner=true&nowDate=20250922_3&minify=.min&cdnUrl=https%3A%2F%2Fcdn.dbpia.co.kr%2Fstatic) 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가✨<sub><sup>2025.06</sup></sub>
 #### [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12206544) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick <sub><sup>2024.12</sup></sub>
 
 <br><br>
 
-## 💻 Tech Stacks 
+### 💻 Tech Stacks 
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
 <br>
 <img src="https://img.shields.io/badge/Electron-47848F?style=style=flat&logo=Electron&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/> 
@@ -91,11 +96,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=style=flat&logo=RaspberryPi&logoColor=white"> 
 <br><br><br>
 
-## 🙆 Contact Me !
+### 🙆 Contact Me !
 <a href=mailto:wjsdkfls03@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wjsdkfls03@gmail.com"> </a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fflsrinn&count_bg=%23FFDE00&title_bg=%23FFCC17&icon=rabbitmq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br>
 
-## ✨ Stats
+### ✨ Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsrinn&layout=compact&bg_color=transparent,&title_color=000000&text_color=000000"/> <a href="https://github.com/devxb/gitanimals" >
 </a>
 
