@@ -59,11 +59,11 @@ Here are some ideas to get you started:
   상장 업로드 예정
 </details>
 <details>
-  <summary>[2025.08.13] <b>Silver Prize</b> — 12th Creative Convergence Competition, Hansung University</summary>
+  <summary>[2025.08.13] <b>Silver Prize</b>, 12th Creative Convergence Competition, Hansung University</summary>
   <img width="334" height="544" alt="image" src="https://github.com/user-attachments/assets/4c4d5863-d642-40d8-9462-cfb8521e19bd" />
 </details>
 <details>
-  <summary>[2025.05.30] <b>Grand Prize</b> (1st Place, Web Track) — 2025 Computer Engineering Capstone Design, Hansung University</summary>
+  <summary>[2025.05.30] <b>Grand Prize</b> (1st Place, Web Track), 2025 Computer Engineering Capstone Design, Hansung University</summary>
   <img src="https://github.com/user-attachments/assets/11a4b68f-3f1d-484c-8aa0-33c5487f398b" width="334px" height="544px">
 </details>
 <details>
