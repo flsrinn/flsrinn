@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img width="334" height="544" alt="image" src="https://github.com/user-attachments/assets/4c4d5863-d642-40d8-9462-cfb8521e19bd" />
 </details>
 <details>
-  <summary>[2025.05.30] 2025 컴퓨터공학부 캡스톤디자인 <b>최우수상</b></summary>
+  <summary>[2025.05.30] 2025 컴퓨터공학부 캡스톤디자인 <b>최우수상</b> (웹 부문 1위)</summary>
   <img src="https://github.com/user-attachments/assets/11a4b68f-3f1d-484c-8aa0-33c5487f398b" width="334px" height="544px">
 </details>
 <details>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/8e762f45-e674-4e83-b378-6ecb4cac36de" width="334px" height="544px">
 </details>
 <details>
-  <summary>[2024.11.27] 2024 SW중심대학 연합 SW FESTIVAL <b>최우수상</b></summary>
+  <summary>[2024.11.27] 2024 SW중심대학 연합 SW FESTIVAL <b>최우수상</b> (웹/모바일 부문 1위)</summary>
   <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="334px" height="544px">
 </details>
 <details>
