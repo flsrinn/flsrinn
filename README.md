@@ -33,11 +33,19 @@ Here are some ideas to get you started:
 <br><br>
 
 ### 🍀 Activities 
-- 2025-2 컴퓨터공학부 TA조교 - 웹프로그래밍기초 <sub><sup>2025.09 – 2025.12</sup></sub>
-- 2025-1 코딩라운지 튜터 <sub><sup>2025.03 – 2025.06</sup></sub>
-- 2025 한성대학교 컴퓨터공학부 동계 프로그래밍 캠프 튜터 <sub><sup>2025.01.20 ~ 2025.01.24</sup></sub>
-- 2024-2 코딩라운지 튜터 <sub><sup>2024.09 – 2024.12</sup></sub>
-- 학부 연구생 <sub><sup>2024.01 – 2025.12</sup></sub>
+- **Teaching Assistant (TA), Department of Computer Engineering (Fall 2025)** <sub><sup>2025.09 – 2025.12</sup></sub> <br>
+  `웹프로그래밍기초 과목 실습 수업 보조` <br>
+  `HTML, CSS, JS 질의응답`  <br><br>
+- **Tutor, Coding Lounge (Spring 2025)** <sub><sup>2025.03 – 2025.06</sup></sub> <br>
+  `컴퓨터공학부 전공과목 질의응답` <br><br>
+- **Tutor, 2025 Hansung University Computer Engineering Winter Programming Camp** <sub><sup>2025.01.20 ~ 2025.01.24</sup></sub> <br>
+  `컴퓨터공학부 전공과목 질의응답`  <br>
+  `학생 안전, 숙소 대표 관리` <br><br>
+- **Tutor, Coding Lounge (Fall 2024)** <sub><sup>2024.09 – 2024.12</sup></sub> <br>
+  `컴퓨터공학부 전공과목 질의응답` <br><br>
+- **Undergraduate Researcher** <sub><sup>2024.01 – 2025.12</sup></sub> <br>
+  `EcosmeticBin AIoT 시스템, QuickQuick 메모 시스템, VideoSummary 영상 요약 시스템 구현` <br>
+  `컴퓨터 스크린 전송 성능 평가 연구 주도 - 제1저자 논문(KCI) 게재`
 
 <br><br>
 
