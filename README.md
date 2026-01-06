@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   `컴퓨터공학부 전공과목 질의응답` <br><br>
 - **Undergraduate Researcher** <sub><sup>2024.01 ~ 2025.12</sup></sub> <br>
   `EcosmeticBin AIoT 시스템, QuickQuick 메모 시스템, VideoSummary 영상 요약 시스템 구현` <br>
-  `컴퓨터 스크린 전송 성능 평가 연구 주도 - 제1저자 논문(KCI) 게재`
+  `컴퓨터 스크린 실시간 전송 성능 평가 연구 주도 - 제1저자 논문(KCI) 게재`
 
 <br><br>
 
