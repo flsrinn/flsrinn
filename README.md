@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 > #### 🧠 [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 ~ 2024.11</sup></sub>  
   AI 기반으로 메모와 공유가 간결한 시스템
 
-> #### ♻️ [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.04 ~ 2024.06</sup></sub>  
+> #### ♻️ [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.03 ~ 2024.05</sup></sub>  
   화장품 용기 분리수거 AIoT 시스템
 
 <br><br>
