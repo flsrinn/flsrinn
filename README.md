@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <br><br>
 
 ### 🍀 Activities 
-- **SK AI Leader Academy (SKALA), AI Track, 3rd Cohort** <sub><sup>2026.01 ~ Present</sup></sub> <br><br>
 - **Teaching Assistant (TA), Department of Computer Engineering (Fall 2025)** <sub><sup>2025.09 ~ 2025.12</sup></sub> <br>
   `웹프로그래밍기초 과목 실습 수업 보조` <br>
   `HTML, CSS, JS 질의응답`  <br><br>
