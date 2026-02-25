@@ -116,10 +116,7 @@ Here are some ideas to get you started:
 ### 💻 Tech Stacks 
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
 <br>
-<img src="https://img.shields.io/badge/Electron-47848F?style=style=flat&logo=Electron&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/> 
-<br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=style=flat&logo=RaspberryPi&logoColor=white"> 
+<img src="https://img.shields.io/badge/Electron-47848F?style=style=flat&logo=Electron&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=style=flat&logo=RaspberryPi&logoColor=white"> 
 
 <br><br><br>
 
