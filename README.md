@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 > #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 ~ 2025.11</sup></sub>  
   하이라이트와 스토리의 비율 조절이 가능한 영상 요약 시스템
 
-> #### 🖥️ [**_MultiPlexer_**](https://github.com/Jeong-dawon/MultiFlexer) <sub><sup>2025.03 ~ 2025.10</sup></sub>
+> #### 🖥️ [**_MultiPlexer_**](https://github.com/flsrinn/MultiPlexer) <sub><sup>2025.03 ~ 2025.10</sup></sub>
   실시간 디스플레이 공유가 가능한 임베디드 소프트웨어
   
 > #### 📝 [**_QuickQuick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 ~ 2024.11</sup></sub>  
