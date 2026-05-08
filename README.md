@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&section=header)
 
-### 📖 Education
-> B.Sc. Department of Computer Engineering, Hansung Univ. <sub><sup>2022.03 ~ Present</sup></sub>  
-
-<br><br>
-
 ### 🚀 Projects
 > #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 ~ 2025.11</sup></sub>  
   하이라이트와 스토리의 비율 조절이 가능한 영상 요약 시스템
