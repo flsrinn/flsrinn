@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&section=header)
 
-### 🚀 Projects
+### Projects
 > #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 ~ 2025.11</sup></sub>  
   하이라이트와 스토리의 비율 조절이 가능한 영상 요약 시스템
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-### 🍀 Activities 
+### Activities 
 - **Teaching Assistant (TA), Department of Computer Engineering (Fall 2025)** <sub><sup>2025.09 ~ 2025.12</sup></sub> <br>
   `웹프로그래밍기초 과목 실습 수업 보조` <br>
   `HTML, CSS, JS 질의응답`  <br><br>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-### 🏆 Awards 
+### Awards 
 #### External Awards
 <details>
   <summary>[2025.11.20] <b>Grand Prize</b>, Undergraduate Capstone Design Competition, 2025 KICS Fall Conference</summary>
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-### 📝 Publications
+### Publications
 #### [[🔗](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003283742)]  Design and Implementation of Multiplexer System for Display Sharing of Multiple Presenters on Meeting <sub><sup>2025.12</sup></sub>
 #### [[🔗](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003269206)]  Video summarization with adjustable ratio of highlights and story <sub><sup>2025.12</sup></sub>
 #### [[🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12276153&nodeId=NODE12276153&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=%EC%BB%B4%ED%93%A8%ED%84%B0+%EC%8A%A4%ED%81%AC%EB%A6%B0+%EC%8B%A4%EC%8B%9C%EA%B0%84+%EC%A0%84%EC%86%A1%EC%97%90+%EB%8C%80%ED%95%9C+%EC%8B%A4%ED%97%98%EC%A0%81+%EC%84%B1%EB%8A%A5+%ED%8F%89%EA%B0%80&articleTitleEn=Experimental+Performance+Evaluation+for+Real+time+Transmission+of+Computer+Screens&voisId=VOIS00778941&voisName=%ED%95%9C%EA%B5%AD%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C+%EB%85%BC%EB%AC%B8%EC%A7%80+%EC%A0%9C25%EA%B6%8C+%EC%A0%9C3%ED%98%B8&voisCnt=36&searchResultKey=%2FlMfWK6MWZi5N74t6Fqz8XXsrT%2FGH3FCVhIaTZWbYjDA8xmuy%2Bb%2Bo7UNF3071KGs&language=ko_KR&hasTopBanner=true&nowDate=20250922_3&minify=.min&cdnUrl=https%3A%2F%2Fcdn.dbpia.co.kr%2Fstatic)] 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가✨<sub><sup>2025.06</sup></sub>
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-### 💡 Patent
+### Patent
 <details>
   <summary>[2025.12.31] 로컬 네트워크 기반의 화면 공유 장치 및 방법 {LOCAL NETWORK BASED SCREEN SHARING APPARATUS AND METHOD}</summary>
   <img width="316" height="366" alt="image" src="https://github.com/user-attachments/assets/82bb34b9-e407-4d59-90d0-b1e86392a654" />
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-### 💻 Tech Stacks 
+### Tech Stacks 
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
 <br>
 <img src="https://img.shields.io/badge/Electron-47848F?style=style=flat&logo=Electron&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=style=flat&logo=RaspberryPi&logoColor=white"> 
