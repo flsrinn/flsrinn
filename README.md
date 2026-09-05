@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 프로젝트
 
 > #### [**_QApilot_**](https://github.com/skala-QApilot) <sub><sup>2026.04 ~ 2026.06</sup></sub>  
-  AI Agent 기반 통합 테스트 자동화 시스템
+  AI Agent 기반 통합 테스트 자동화 플랫폼
 
 > #### [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 ~ 2025.11</sup></sub>  
   하이라이트와 스토리의 비율 조절이 가능한 영상 요약 시스템
