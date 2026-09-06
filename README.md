@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   실시간 디스플레이 공유가 가능한 임베디드 소프트웨어
   
 > #### [**_QuickQuick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 ~ 2024.11</sup></sub>  
-  AI 기반 간편 메모 및 공유 시스템
+  AI 기반으로 메모와 공유가 간결한 시스템
 
 > #### [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.03 ~ 2024.05</sup></sub>  
   화장품 용기 분리수거 AIoT 시스템
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - **코딩라운지 튜터, 2025년 1학기** <sub><sup>2025.03 ~ 2025.06</sup></sub> <br>
   `컴퓨터공학부 전공과목 질의응답` <br><br>
 
-- **2025 한성대학교 컴퓨터공학부 겨울 프로그래밍 캠프 튜터** <sub><sup>2025.01.20 ~ 2025.01.24</sup></sub> <br>
+- **2025 한성대학교 컴퓨터공학부 동계 프로그래밍 캠프 튜터** <sub><sup>2025.01.20 ~ 2025.01.24</sup></sub> <br>
   `컴퓨터공학부 전공과목 질의응답` <br>
   `학생 안전 관리 및 숙소 대표 관리` <br><br>
 
@@ -62,62 +62,27 @@ Here are some ideas to get you started:
 <br><br>
 
 ### 수상 경력
-
-#### 교외 수상
-
-<details>
-  <summary>[2026.06.24] <b>최우수상</b>, SKALA 3기 최종 팀 프로젝트</summary>
-  상장 업로드 예정
-</details>
-
-<details>
-  <summary>[2025.11.20] <b>최우수상</b>, 2025 한국통신학회 추계종합학술발표회 학부생 캡스톤디자인 경진대회</summary>
-  상장 업로드 예정
-</details>
-
-<details>
-  <summary>[2024.11.27] <b>최우수상</b> (웹/모바일 트랙 1위), 2024 SW중심대학 연합 SW FESTIVAL</summary>
-  <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="334px" height="544px">
-</details>
-
-<details>
-  <summary>[2024.04.30] <b>장려상</b>, 2024 시스코 이노베이션 챌린지, Cisco Systems Korea</summary>
-  <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d">
-</details>
+#### 주요 수상
+| 수상일 | 수상 | 대회명 | 주관 |
+|---|---|---|---|
+| 2026.06.24 | 최우수상 | SKALA 3기 최종 팀 프로젝트 | SK주식회사 AX |
+| 2025.12.05 | 우수작 | 2025 공개 SW 개발자 대회 | 한국오픈소스협회 |
+| 2025.11.20 | 최우수상 | 2025 한국통신학회 추계종합학술발표회 학부생 캡스톤디자인 경진대회 | 한국통신학회 |
+| 2024.11.27 | 최우수상<br>(웹/모바일 트랙 1위) | 2024 SW중심대학 연합 SW FESTIVAL | SW중심대학협의회 |
+| 2024.04.30 | 장려상 | 2024 시스코 이노베이션 챌린지 | 시스코시스템즈코리아 |
 
 <br>
 
 #### 교내 수상
 
-<details>
-  <summary>[2025.09.27] <b>은상</b>, 제21회 한성공학경진대회, 한성대학교</summary>
-  상장 업로드 예정
-</details>
-
-<details>
-  <summary>[2025.08.13] <b>은상</b>, 제12회 창의융합역량 경진대회, 한성대학교</summary>
-  <img width="334" height="544" alt="image" src="https://github.com/user-attachments/assets/4c4d5863-d642-40d8-9462-cfb8521e19bd" />
-</details>
-
-<details>
-  <summary>[2025.05.30] <b>최우수상</b> (웹 트랙 1위), 2025 컴퓨터공학부 캡스톤디자인, 한성대학교</summary>
-  <img src="https://github.com/user-attachments/assets/11a4b68f-3f1d-484c-8aa0-33c5487f398b" width="334px" height="544px">
-</details>
-
-<details>
-  <summary>[2025.05.26] <b>공로상</b>, 2024 한성대학교 공로상, 한성대학교</summary>
-  <img width="334" height="544" alt="image" src="https://github.com/user-attachments/assets/f7a664db-b727-47db-8629-63bfb4a7fe90" />
-</details>
-
-<details>
-  <summary>[2025.02.07] <b>금상</b>, 제11회 창의융합성과경진대회, 한성대학교</summary>
-  <img src="https://github.com/user-attachments/assets/8e762f45-e674-4e83-b378-6ecb4cac36de" width="334px" height="544px">
-</details>
-
-<details>
-  <summary>[2024.09.26] <b>은상</b>, 제20회 한성공학경진대회, 한성대학교</summary>
-  <img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7" width="334px" height="544px"> 
-</details>
+| 수상일 | 수상 | 대회명 | 주관 |
+|---|---|---|---|
+| 2025.09.27 | 은상 | 제21회 한성공학경진대회 | 한성대학교 |
+| 2025.08.13 | 은상 | 제12회 창의융합역량 경진대회 | 한성대학교 |
+| 2025.05.30 | 최우수상<br>(웹 트랙 1위) | 2025 컴퓨터공학부 캡스톤디자인 | 한성대학교 |
+| 2025.05.26 | 발전공헌상 | 2024 한성 발전공헌상 | 한성대학교 |
+| 2025.02.07 | 금상 | 제11회 창의융합성과경진대회 | 한성대학교 |
+| 2024.09.26 | 은상 | 제20회 한성공학경진대회 | 한성대학교 |
 
 <br><br><br>
 
